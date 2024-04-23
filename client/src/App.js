@@ -8,9 +8,11 @@ import ArtistRegister from './Components/ArtistRegister';
 function App() {
   return (
     <div >
+      
       <Login/>
-      <ArtistRegister/>
       <UserRegister/>
+      <ArtistRegister/>
+     
 
     </div>
   );
